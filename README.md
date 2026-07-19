@@ -1,7 +1,7 @@
 <!-- Centered Header Section -->
 <div align="center">
   <h1>👋 Hey there, I'm [Rashmi Nisansala]</h1>
-  <h3>IIntern Software Engineer and Software Quality Assurance Engineer</h3>
+  <h3>IIntern Software Engineer | Software Quality Assurance Engineer</h3>
 
   <!-- Badges for Views & Followers -->
   <!-- 'your-username' වෙනුවට ඔයාගේ ඇත්තම GitHub Username එක දාන්න -->
