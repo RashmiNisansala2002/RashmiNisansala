@@ -1,66 +1,177 @@
-<!-- Centered Header Section -->
-<div align="center">
-  <h1>👋 Hey there, I'm Rashmi Nisansala</h1>
-  <h3>Full-Stack Developer</h3>
+<!-- ================= HEADER ================= -->
 
-  <!-- Badges for Views & Followers -->
-  <!-- 'your-username' වෙනුවට ඔයාගේ ඇත්තම GitHub Username එක දාන්න -->
-  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-100-4c1?style=for-the-badge&logoColor=white&color=3F51B5" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/FOLLOWERS-5-4c1?style=for-the-badge&logoColor=white&color=7B1FA2" alt="Followers" />
+<div align="center">
+
+# 👋 Hey there, I'm Rashmi Nisansala
+
+<h2>Software Quality Assurance Engineer | PHP Developer</h2>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7B68EE"/>
+
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7B68EE"/>
+
 </div>
 
 ---
 
-<!-- About Me Section -->
-## 🚀 About Me
+# 🚀 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>🎓 <b>Undergraduate</b> at Easern University</li>
-        <li>📍 Based in <b>Rathnapura,Sri Lanka</b></li>
-        <li>💻 Specializing in Software Quality Assurance</li>
-        <li>⚡ Working with <b>React.js, Node.js, Express.js, MongoDB</b></li>
-        <li>🌱 Currently learning Software Enginnering</li>
-        <li>🎯 Goal: Become a skilled <b>Software Engineer</b></li>
-        <li>💡 Life Philosophy: "Code. Learn. Build. Repeat." 🔗</li>
-      </ul>
-    </td>
-    <td width="40%" valign="center" align="center">
-      <!-- Octocat Image (ඔයාට කැමති image එකක් දාන්න පුළුවන්) -->
-      <img src="https://www.shutterstock.com/search/women-software-engineer?page=2" />
-    </td>
-  </tr>
+<table>
+
+<tr>
+
+<td width="60%">
+
+🎓 **Computer Science Undergraduate** at **Eastern University of Sri Lanka**
+
+📍 Based in **Rathnapura, Sri Lanka**
+
+💻 Specializing in **Software Quality Assurance & PHP Development**
+
+🧪 Working with **Java, PHP, CodeIgniter, MySQL, HTML, CSS & JavaScript**
+
+⚡ Learning **Selenium WebDriver, TestNG, API Testing & Automation Testing**
+
+🗄️ Experienced in **MySQL Database Design**
+
+🚀 Built projects including:
+
+- 📱 Mobile Communication POS System
+- 💊 Pharmacy Management System
+- 🌳 Timber Species Classification (ResNet50 + Django)
+
+🎯 Goal: Become a **Software Engineer & QA Engineer**
+
+💡 **"Code • Test • Learn • Improve • Repeat"**
+
+</td>
+
+<td width="40%" align="center">
+
+<img width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-<!-- Tech Arsenal Section -->
-## 🛠️ Tech Arsenal
+# 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br><br>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <br><br>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=php"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<br><br>
+
+### Frameworks
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<br><br>
+
+### Testing
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TestNG-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman"/>
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
 </div>
 
 ---
 
-<!-- Quick Stats Section -->
-## ⚡ Quick Stats
+# 📊 GitHub Statistics
 
 <div align="center">
-  <!-- 'your-username' වෙනුවට ඔයාගේ GitHub Username එක දාන්න. එතකොට ඔයාගේ Stats auto අප්ඩේට් වෙයි -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
 </div>
