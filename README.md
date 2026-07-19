@@ -6,9 +6,9 @@
 
 <h2>Software Engineet | Software Quality Assurance Engineer | PHP Developer</h2>
 
-//<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7B68EE"/>
+<!--  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7B68EE"/>  -->
 
-//<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7B68EE"/>
+<!-- <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7B68EE"/>  -->
 
 </div>
 
