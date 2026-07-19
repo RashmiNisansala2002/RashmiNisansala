@@ -29,7 +29,7 @@
     </td>
     <td width="40%" valign="center" align="center">
       <!-- Octocat Image (ඔයාට කැමති image එකක් දාන්න පුළුවන්) -->
-      <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="100%" alt="Developer Illustration" />
+      <img src="https://www.shutterstock.com/search/women-software-engineer?page=2" />
     </td>
   </tr>
 </table>
