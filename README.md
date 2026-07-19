@@ -1,128 +1,66 @@
-# Hi there 👋 I'm Rashmi Nisansala
+<!-- Centered Header Section -->
+<div align="center">
+  <h1>👋 Hey there, I'm Rashmi Nisansala</h1>
+  <h3>Full-Stack Developer</h3>
 
-🎓 Computer Science Undergraduate
-📍 Eastern University of Sri Lanka
-
-Software Quality Assurance enthusiast with experience in Manual Testing,
-Automation Testing, and Web Application Development. I enjoy building
-practical software solutions and ensuring they are reliable through
-effective testing.
-
----
-
-## 👩‍💻 About Me
-
-- 🎯 Interested in Software Quality Assurance (SQA)
-- 🧪 Learning Selenium WebDriver & TestNG
-- 💻 PHP & CodeIgniter Developer
-- 🗄️ MySQL Database Design
-- 🌱 Currently improving Java, API Testing, and Git
-- 🚀 Looking for Software Engineering & QA Internship opportunities
+  <!-- Badges for Views & Followers -->
+  <!-- 'your-username' වෙනුවට ඔයාගේ ඇත්තම GitHub Username එක දාන්න -->
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-100-4c1?style=for-the-badge&logoColor=white&color=3F51B5" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/FOLLOWERS-5-4c1?style=for-the-badge&logoColor=white&color=7B1FA2" alt="Followers" />
+</div>
 
 ---
 
-## 🛠 Tech Stack
+<!-- About Me Section -->
+## 🚀 About Me
 
-### Languages
-- Java
-- PHP
-- JavaScript
-- HTML
-- CSS
-- SQL
-
-### Frameworks
-- CodeIgniter 4
-- Bootstrap
-
-### Testing
-- Manual Testing
-- Selenium WebDriver
-- TestNG
-- JUnit
-
-### Database
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- XAMPP
-- Postman
-- Figma
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🎓 <b>Undergraduate</b> at Easern University</li>
+        <li>📍 Based in <b>Rathnapura,Sri Lanka</b></li>
+        <li>💻 Specializing in Software Quality Assurance</li>
+        <li>⚡ Working with <b>React.js, Node.js, Express.js, MongoDB</b></li>
+        <li>🌱 Currently learning Software Enginnering</li>
+        <li>🎯 Goal: Become a skilled <b>Software Engineer</b></li>
+        <li>💡 Life Philosophy: "Code. Learn. Build. Repeat." 🔗</li>
+      </ul>
+    </td>
+    <td width="40%" valign="center" align="center">
+      <!-- Octocat Image (ඔයාට කැමති image එකක් දාන්න පුළුවන්) -->
+      <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="100%" alt="Developer Illustration" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+<!-- Tech Arsenal Section -->
+## 🛠️ Tech Arsenal
 
-### 📱 Mobile Communication POS System
-PHP • CodeIgniter • MySQL
-
-A complete POS system for mobile phone shops including:
-
-- Sales
-- Purchases
-- Inventory
-- Customers
-- Suppliers
-- Reports
-- User Management
-
----
-
-### 💊 Pharmacy Management System
-PHP • MySQL
-
-Features:
-
-- Medicine Management
-- Billing
-- Stock Management
-- Customer Management
+<div align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br><br>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <br><br>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
 
 ---
 
-### 🌲 Timber Species Classification
+<!-- Quick Stats Section -->
+## ⚡ Quick Stats
 
-Python • Django • PyTorch • ResNet50
-
-AI-based web application for identifying Sri Lankan timber species using
-deep learning.
-
----
-
-## 📚 Currently Learning
-
-- Selenium Automation
-- TestNG
-- API Testing
-- Performance Testing
-- Linux
-- CI/CD
-
----
-
-## 📫 Connect With Me
-
-📧 Email: your@email.com
-
-💼 LinkedIn:
-https://linkedin.com/in/yourprofile
-
-🌐 Portfolio:
-https://yourportfolio.com
-
----
-
-## 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-⭐ Always learning, always building, always testing.
+<div align="center">
+  <!-- 'your-username' වෙනුවට ඔයාගේ GitHub Username එක දාන්න. එතකොට ඔයාගේ Stats auto අප්ඩේට් වෙයි -->
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</div>
