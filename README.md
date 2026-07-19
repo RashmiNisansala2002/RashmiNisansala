@@ -18,8 +18,8 @@
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>🎓 <b>Undergraduate</b> at [Eastern Univercity]</li>
-        <li>📍 Based in <b>[Rathnapura], Sri Lanka</b></li>
+        <li>🎓 <b>Undergraduate</b> at Eastern Univercity</li>
+        <li>📍 Based in <b>Rathnapura, Sri Lanka</b></li>
         <li>💻 Specializing in <b>Software Engineering</b></li>
         <li>⚡ Working with <b>React.js, Node.js, Express.js, MongoDB</b></li>
         <li>🌱 Currently learning <b>Software Development and Software Quality Assurance</b></li>
