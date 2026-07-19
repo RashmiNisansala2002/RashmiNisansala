@@ -1,7 +1,7 @@
 <!-- Centered Header Section -->
 <div align="center">
-  <h1>👋 Hey there, I'm [Rashmi Nisansala]</h1>
-  <h3>IIntern Software Engineer | Software Quality Assurance Engineer</h3>
+  <h1>👋 Hey there, I'm [Rashmi Nisansala] 🚀</h1>
+  <h3>Intern Software Engineer | Software Quality Assurance Engineer</h3>
 
   <!-- Badges for Views & Followers -->
   <!-- 'your-username' වෙනුවට ඔයාගේ ඇත්තම GitHub Username එක දාන්න -->
@@ -29,7 +29,7 @@
     </td>
     <td width="40%" valign="center" align="center">
       <!-- Octocat Image (ඔයාට කැමති image එකක් දාන්න පුළුවන්) -->
-      <img src="https://myoctocat.com/assets/images/base-octocat.svg" width="100%" alt="Developer Illustration" />
+      <img src="https://www.shutterstock.com/search/girl-web-developer />
     </td>
   </tr>
 </table>
