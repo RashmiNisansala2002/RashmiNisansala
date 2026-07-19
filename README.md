@@ -4,7 +4,7 @@
 
 # 👋 Hey there, I'm Rashmi Nisansala
 
-<h2>Software Quality Assurance Engineer | PHP Developer</h2>
+<h2>Software Engineet | Software Quality Assurance Engineer | PHP Developer</h2>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7B68EE"/>
 
@@ -32,7 +32,7 @@
 
 ⚡ Learning **Selenium WebDriver, TestNG, API Testing & Automation Testing**
 
-🗄️ Experienced in **MySQL Database Design**
+🗄️ Experienced in **Software Quality Assurance**
 
 🚀 Built projects including:
 
@@ -154,15 +154,15 @@
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:"rashminisansala200263@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="linkedin.com/in/rashmi-nisansala-0b678227b">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
