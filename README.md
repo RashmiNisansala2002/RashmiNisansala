@@ -4,7 +4,7 @@
 
 <img
   height="240"
-  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+  src="https://giphy.com/gifs/anime-cosmic-kilianimes-5NE2L7vdWZ9V39Sjq8"
   alt="Developer Coding Animation"
 />
 
