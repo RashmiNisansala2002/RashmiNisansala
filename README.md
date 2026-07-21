@@ -1,3 +1,27 @@
+<div align="center">
+
+<img
+  height="240"
+  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+  alt="Developer Coding Animation"
+/>
+
+# Hi 👋 I'm Rashmi Nisansala
+
+### Intern Software Engineer | Software Quality Assurance Engineer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ADFF2F&center=true&vCenter=true&width=850&lines=Aspiring+AI+Software+Engineer;Full-Stack+Developer;Open+Source+Learner;Building+Scalable+and+Intelligent+Applications)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+I'm a Computer Science undergraduate passionate about building intelligent software that solves real-world problems.  
+Currently, I'm strengthening my software engineering fundamentals while learning AI,SQA and modern Full-Stack Development.
+
+</div>
+
+
 # 💫 About Me:
  🎓 **Computer Science Undergraduate** at **Eastern University of Sri Lanka**<br><br>📍 Based in **Rathnapura, Sri Lanka**<br><br>**Selenium WebDriver, TestNG, API Testing & Automation Testing**<br><br>🧪 Working with **Java, PHP, CodeIgniter, MySQL, HTML, CSS & JavaScript**<br><br>⚡ Learning **Selenium WebDriver, TestNG, API Testing & Automation Testing**<br><br>🗄️ Experienced in **Software Quality Assurance**
 
