@@ -10,7 +10,7 @@
 
 ### Intern Software Engineer | Software Quality Assurance Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ADFF2F&center=true&vCenter=true&width=850&lines= Intern Software Engineer;Full-Stack+Developer;Tester+Learner;Building+Scalable+and+Intelligent+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ADFF2F&center=true&vCenter=true&width=850&lines=Intern Software+Engineer;Full-Stack+Developer;Tester+%26+Learner;Building+Scalable+and+Intelligent+Applications)](https://git.io/typing-svg)
 
 </div>
 
