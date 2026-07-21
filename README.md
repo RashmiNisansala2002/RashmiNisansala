@@ -10,7 +10,7 @@
 
 ### Intern Software Engineer | Software Quality Assurance Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ADFF2F&center=true&vCenter=true&width=850&lines=Aspiring+AI+Software+Engineer;Full-Stack+Developer;Open+Source+Learner;Building+Scalable+and+Intelligent+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ADFF2F&center=true&vCenter=true&width=850&lines= Intern Software Engineer;Full-Stack+Developer;Tester+Learner;Building+Scalable+and+Intelligent+Applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +22,7 @@ Currently, I'm strengthening my software engineering fundamentals while learning
 </div>
 
 
-# 💫 About Me:
+
  🎓 **Computer Science Undergraduate** at **Eastern University of Sri Lanka**<br><br>📍 Based in **Rathnapura, Sri Lanka**<br><br>**Selenium WebDriver, TestNG, API Testing & Automation Testing**<br><br>🧪 Working with **Java, PHP, CodeIgniter, MySQL, HTML, CSS & JavaScript**<br><br>⚡ Learning **Selenium WebDriver, TestNG, API Testing & Automation Testing**<br><br>🗄️ Experienced in **Software Quality Assurance**
 
 
