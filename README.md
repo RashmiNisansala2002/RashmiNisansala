@@ -1,8 +1,8 @@
 <div align="center">
 <img
   height="240"
-  src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
-  alt="Girl Programmer"
+  src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+  alt="Anime Girl Coding"
 />
 <h1>Hi 👋 I'm Rashmi Nisansala</h1>
 
