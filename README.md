@@ -1,9 +1,13 @@
 <div align="center">
+<div align="center">
+
 <img
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbGAAwWba2TsKaxBaDIQDzPOCir9gQ_1zECpQPDaYKNw&s=10"
+  alt="Girl Developer"
   height="240"
-  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
-  alt="Developer Girl"
 />
+
+</div>
 <h1>Hi 👋 I'm Rashmi Nisansala</h1>
 
 <h3>Intern Software Engineer | Software Quality Assurance Engineer</h3>
