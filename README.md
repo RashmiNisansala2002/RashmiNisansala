@@ -1,7 +1,9 @@
 <div align="center">
-
-<img height="240" src="YOUR_DIRECT_GIF_URL_HERE" alt="Developer Coding Animation"/>
-
+<img
+  height="240"
+  src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+  alt="Girl Developer Coding"
+/>
 <h1>Hi 👋 I'm Rashmi Nisansala</h1>
 
 <h3>Intern Software Engineer | Software Quality Assurance Engineer</h3>
