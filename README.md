@@ -1,11 +1,18 @@
 <div align="center">
 <div align="center">
 
-<img
-  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbGAAwWba2TsKaxBaDIQDzPOCir9gQ_1zECpQPDaYKNw&s=10"
-  alt="Girl Developer"
-  height="240"
-/>
+<div align="center">
+
+<video
+  src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/businesswoman-coding-on-laptop-animation-gif-download-13131178.mp4"
+  autoplay
+  loop
+  muted
+  playsinline
+  width="350">
+</video>
+
+</div>
 
 </div>
 <h1>Hi 👋 I'm Rashmi Nisansala</h1>
