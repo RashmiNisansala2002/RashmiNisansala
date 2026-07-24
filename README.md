@@ -3,14 +3,11 @@
 
 <div align="center">
 
-<video
-  src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/businesswoman-coding-on-laptop-animation-gif-download-13131178.mp4"
-  autoplay
-  loop
-  muted
-  playsinline
-  width="350">
-</video>
+<img
+  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/assets/girl-developer.png"
+  alt="Girl Developer"
+  height="240"
+/>
 
 </div>
 
